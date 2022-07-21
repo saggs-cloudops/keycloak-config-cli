@@ -46,6 +46,7 @@ existingSecret: ""
 # The key in the existing secret that stores the password
 existingSecretKey: password
 
+initContainers: []
 securityContext: {}
 containerSecurityContext: {}
 
